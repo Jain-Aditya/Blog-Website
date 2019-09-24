@@ -1,2 +1,2 @@
-# Blog-Website
-A Django blog app
+# Tech-Post
+A Django app for posting technical articles
